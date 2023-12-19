@@ -19,12 +19,15 @@ For running the py file:
 Else you can run the .exe file.
 
 # How to use #
+For running the py file:  
 1. Ensure Python and the required libraries are installed.
 2. Run the Python script Ab_MP4FE_1.0.py.
 3. Select a video file and choose an output folder by using the correspondent buttons.
 4. Click "Extract" to start the frame extraction process.
 5. Click "Stop" if you wish to halt the extraction early.
 6. The frames will be saved in the output folder selected.
+
+Else you can run the .exe file.
 
 # Notes #
 - A folder named "frames" within the selected output folder is created to store extracted frames.
