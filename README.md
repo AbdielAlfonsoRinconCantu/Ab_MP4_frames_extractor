@@ -1,6 +1,6 @@
 ## MP4 frames extractor ##  
 This program allows users to extract frames from MP4 video files into individual image files in PNG format, it provides a graphical user interface for easy interaction,
-.exe file: https://drive.google.com/file/d/1Vhq9Cpv3_5IBuS4jVmbtqIdGwDz7bKwq/view?usp=sharing.
+.exe file: https://drive.google.com/file/d/1fun2DA2L-8UVJA4-PYpROIWBxDc-3sa4/view?usp=sharing.  
 
 # Features #  
 - Saves frames from an MP4 video as PNG files.  
@@ -22,11 +22,12 @@ Else you can run the .exe file.
 # How to use #
 For running the py file:  
 1. Ensure Python and the required libraries are installed.
-2. Run the Python script Ab_MP4FE_1.0.py.
-3. Select a video file and choose an output folder by using the correspondent buttons.
-4. Click "Extract" to start the frame extraction process.
-5. Click "Stop" if you wish to halt the extraction early.
-6. The frames will be saved in the output folder selected.
+2. Place the Open-File-Folder-Flat-icon.png in the same directory as the MP4FE_1.0.py.  
+3. Run the Python script Ab_MP4FE_1.0.py.
+4. Select a video file and choose an output folder by using the correspondent buttons.
+5. Click "Extract" to start the frame extraction process.
+6. Click "Stop" if you wish to halt the extraction early.
+7. The frames will be saved in the output folder selected.
 
 Else you can run the .exe file.
 
