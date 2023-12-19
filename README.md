@@ -1,5 +1,6 @@
 ## MP4 frames extractor ##  
-This program allows users to extract frames from MP4 video files into individual image files in PNG format, it provides a graphical user interface for easy interaction.
+This program allows users to extract frames from MP4 video files into individual image files in PNG format, it provides a graphical user interface for easy interaction,
+.exe file: https://drive.google.com/file/d/1Vhq9Cpv3_5IBuS4jVmbtqIdGwDz7bKwq/view?usp=sharing.
 
 # Features #  
 - Saves frames from an MP4 video as PNG files.  
